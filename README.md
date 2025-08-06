@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Rajesh!- 💻 I’m passionate about App Development- 🌱 Currently learning: Java, Kotlin, React, MongoDB, Express ,Node Js and GitHub Actions- 💡
+# 👋 Hi there, I'm Rajesh!- 💻 I’m passionate about App Development- 🌱 Currently learning: Java, Kotlin, React, MongoDB, Express  and Node Js- 💡
 ## 🛠️ Skills & Tools
 ![Java](https://img.shields.io/badge/Language-Java-007396?logo=java&logoColor=white)
 
