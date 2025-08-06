@@ -13,4 +13,4 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pidugurajesh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pidugurajesh&layout=compact)
-## 📫 Connect with Me- ✉️ Email: pidugurajesh0@gmail.com- 🔗 LinkedIn: [Rajesh Profile](https://linkedin.com/in/pidugu-rajesh)
+## 📫 Connect with Me- ✉️ Email: pidugurajesh0@gmail.com- 🔗 LinkedIn: [Rajesh Profile](https://linkedin.com/in/pidugurajesh)
