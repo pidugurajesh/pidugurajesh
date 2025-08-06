@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rajesh!- 💻 I’m passionate about App Development- 🌱 Currently learning: Java, Kotlin, React, MongoDB, Express ,Node Js and GitHub Actions- 💡
+## 🛠️ Skills & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-7f52ff?logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Backend-Express-000000?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white)
 
-<!--
-**pidugurajesh/pidugurajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pidugurajesh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pidugurajesh&layout=compact)
+## 📫 Connect with Me- ✉️ Email: pidugurajesh0@gmail.com- 🔗 LinkedIn: [Rajesh Profile](https://linkedin.com/in/pidugu-rajesh)
